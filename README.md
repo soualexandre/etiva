@@ -1,23 +1,22 @@
-// aluno
-// Nome
-// curso
-// númerode matrícula
+## aluno
+    ### Nome
+    ###curso
+    ### númerode matrícula
 
-// matéria
-// Nome
-// Descrição
+## matéria
+    ## Nome
+    ## Descrição
+### perguntas
+    ## titulo
+    ## pergunta
 
-// perguntas
-// titulo
-// pergunta
+## respostas
+    ### aluno
+    ### matéria
+    ### pergunta
+    ### respostas
 
-// respostas
-// aluno
-// matéria
-// pergunta
-// respostas
-
-// status atual
-// steep
-// quantidade de perguntas respondidas
-// quantidade de perguntas certas
+## status atual
+    ### steep
+    ### quantidade de perguntas respondidas
+    ### quantidade de perguntas certas
